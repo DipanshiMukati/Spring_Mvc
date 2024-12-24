@@ -1,0 +1,43 @@
+package com.rays.dao;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataAccessException;
+import org.springframework.stereotype.Repository;
+
+import com.rays.dto.UserDTO;
+
+@Repository
+public class UserDAO {
+	
+	@Autowired
+	
+	public SessionFactory sessionFactory;
+	
+	public long add (UserDTO dto) throws DataAccessException {
+		
+		System.out.println("id is" + dto.getId());
+		    long pk  = (long) sessionFactory.getCurrentSession().save(dto);
+		return  pk ;
+	
+	}
+	
+	public void update( UserDTO dto )throws DataAccessException {
+		sessionFactory.getCurrentSession().update(dto);
+		
+		
+		
+	}
+	
+	public UserDTO delete( UserDTO dto )throws DataAccessException {
+		UserDTO dto = findByPK(id);
+		sessionFactory.getCurrentSession().delete(dto);
+		return dto;
+		
+		
+	}
+
+	
+	
+
+}

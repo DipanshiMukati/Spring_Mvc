@@ -1,0 +1,92 @@
+
+Dec 16, 2024 15:12:45.16 NEW SESSION
+Dec 16, 2024 15:12:45.16 [3636:3100:1216/151245.159:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 16, 2024 15:12:45.40 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 16, 2024 15:12:45.40 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Dec 16, 2024 15:13:13.86 [3636:3100:1216/151313.866:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 16, 2024 15:14:03.69 [3636:3100:1216/151403.697:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 16, 2024 15:16:01.96 [3636:3100:1216/151601.965:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 16, 2024 15:19:21.90 [3636:3100:1216/151921.903:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 16, 2024 15:26:09.92 [3636:3100:1216/152609.920:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 16, 2024 16:41:34.14 [3636:5632:1216/164134.140:ERROR:device_event_log_impl.cc(201)] [16:41:34.080] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Dec 18, 2024 11:01:12.38 NEW SESSION
+Dec 18, 2024 11:01:12.38 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 18, 2024 11:01:12.38 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Dec 18, 2024 11:01:15.34 [15664:2784:1218/110115.342:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:01:18.39 [15664:2784:1218/110118.391:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 18, 2024 11:01:42.63 [15664:2784:1218/110142.636:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:01:45.65 [15664:2784:1218/110145.658:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 18, 2024 11:02:29.82 [15664:2784:1218/110229.826:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 18, 2024 11:02:34.65 [15664:2784:1218/110234.656:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:02:51.75 [15664:2784:1218/110251.757:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:03:00.82 [15664:2784:1218/110300.824:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:04:21.42 [15664:2784:1218/110421.424:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 18, 2024 11:04:36.02 [15664:2784:1218/110436.023:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:06:44.13 [15664:2784:1218/110644.138:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:07:02.26 [15664:2784:1218/110702.264:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:07:16.15 [15664:2784:1218/110716.151:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:07:34.28 [15664:2784:1218/110734.280:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:07:37.32 [15664:2784:1218/110737.325:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:07:41.41 [15664:2784:1218/110741.415:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 18, 2024 11:09:46.22 [15664:2784:1218/110946.220:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:13:29.42 [15664:2784:1218/111329.421:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2024 11:15:41.53 [15664:2784:1218/111541.534:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 18, 2024 11:23:30.20 [15664:2784:1218/112330.201:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 11:23:58.22 [15664:2784:1218/112358.226:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 11:24:47.13 [15664:2784:1218/112447.134:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 11:24:49.91 [15664:2784:1218/112449.915:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Dec 18, 2024 11:25:00.82 [15664:2784:1218/112500.828:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Dec 18, 2024 11:28:40.22 [13108:5836:1218/112840.229:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 11:28:40.33 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 18, 2024 11:28:40.33 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Dec 18, 2024 11:29:05.05 [13108:5836:1218/112905.052:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 11:30:00.47 [13108:5836:1218/113000.474:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Dec 18, 2024 13:17:54.20 NEW SESSION
+Dec 18, 2024 13:17:54.20 [16988:12672:1218/131754.203:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 13:17:54.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 18, 2024 13:17:54.62 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Dec 18, 2024 13:18:22.24 [16988:12672:1218/131822.246:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 13:19:21.14 [16988:12672:1218/131921.145:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 13:21:13.83 [16988:12672:1218/132113.834:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 13:24:43.01 [16988:12672:1218/132443.017:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 13:32:02.63 [16988:12672:1218/133202.632:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 18, 2024 13:55:48.12 [16988:6256:1218/135548.123:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+Dec 18, 2024 13:58:14.44 [16988:12672:1218/135814.440:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Dec 18, 2024 20:26:24.98 NEW SESSION
+Dec 18, 2024 20:26:24.98 [18016:14184:1218/202624.982:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 18, 2024 20:26:25.99 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 18, 2024 20:26:26.02 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Dec 18, 2024 20:26:45.65 [18016:14184:1218/202645.656:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Dec 20, 2024 18:27:33.49 NEW SESSION
+Dec 20, 2024 18:27:33.50 [14792:1912:1220/182733.469:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 20, 2024 18:27:34.01 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 20, 2024 18:27:34.01 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Dec 20, 2024 18:27:54.76 [14792:1912:1220/182754.764:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 20, 2024 18:28:50.21 [14792:1912:1220/182850.213:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 20, 2024 18:30:43.51 [14792:1912:1220/183043.519:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 20, 2024 18:33:31.59 [14792:1912:1220/183331.595:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 20, 2024 18:40:01.67 [14792:1912:1220/184001.673:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 20, 2024 18:40:03.59 [14792:1912:1220/184003.594:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Dec 20, 2024 20:29:20.09 [14792:1912:1220/202920.092:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Dec 20, 2024 20:29:20.13 [14792:1912:1220/202920.136:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:29:41.70 [14792:1912:1220/202941.708:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:29:46.64 [14792:1912:1220/202946.647:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:30:42.91 [14792:1912:1220/203042.918:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:30:49.18 [14792:1912:1220/203049.181:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:30:59.57 [14792:10148:1220/203059.573:ERROR:device_event_log_impl.cc(201)] [20:30:59.573] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2024 20:31:18.23 [14792:1912:1220/203118.233:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:32:03.45 [14792:1912:1220/203203.449:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:33:12.25 [14792:1912:1220/203312.252:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:33:47.15 [14792:1912:1220/203347.156:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2024 20:33:50.88 [14792:1912:1220/203350.887:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:34:04.64 [14792:1912:1220/203404.640:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:34:13.20 [14792:1912:1220/203413.207:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:34:37.95 [14792:1912:1220/203437.957:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:34:48.20 [14792:1912:1220/203448.202:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:34:49.88 [14792:1912:1220/203449.888:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:36:42.08 [14792:1912:1220/203642.086:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2024 20:36:55.73 [14792:1912:1220/203655.734:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105

@@ -1,0 +1,29 @@
+INDEX VERSION 1.131
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1212822089.index
+\spring-mvc-simple\src\main\resources
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\244506793.index
+\spring-mvc-tiles\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3830202728.index
+\spring-mvc-validation\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4141260043.index
+\spring-mvc-tiles\src\main\resources
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\742268296.index
+\spring-mvc-validation\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4014435986.index
+\spring-mvc-simple\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2028506375.index
+\spring-mvc-simple\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1035232023.index
+\spring-mvc-validation\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3349030584.index
+\spring-mvc-frontCtl\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4262064698.index
+\spring-mvc-simple\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3813139530.index
+\spring-mvc-frontCtl\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2686585766.index
+\spring-mvc-language\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2490866132.index
+\spring-mvc-language\src\main\java
+C:\Rays software\spring-mvc-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\169145316.index
+\com.rays\src\main\resources
